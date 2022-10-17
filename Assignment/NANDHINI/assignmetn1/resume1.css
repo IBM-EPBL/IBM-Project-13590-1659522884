@@ -1,0 +1,49 @@
+h3{
+    background-color: blue;
+}
+div.a{
+    text-indent: 4em;
+}
+th ,td{
+    padding: 14px;
+    
+}
+
+div.b{
+    text-indent: 8em;
+}
+div.c{
+    text-indent: 8em;
+}
+div.d{
+    text-indent: 8em;
+}
+div.one{
+    text-indent: 8em;
+}
+div.two{
+    text-indent: 8em;
+}
+div.three{
+    text-indent: 8em;
+}
+div.s{
+    text-indent: 8em;
+}
+div.f{
+    text-indent: 8em;
+}
+div.h{
+    text-align: left;
+}
+div.g{
+    text-align: right;
+}
+img{
+    height: 200px;
+    width:200px;
+    
+}
+div.k{
+    text-align: right;
+}
